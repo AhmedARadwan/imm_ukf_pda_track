@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8.3)
 project(vector_map)
 
 
-find_package(autoware_build_flags REQUIRED)
+# find_package(autoware_build_flags REQUIRED)
 
 find_package(vector_map_msgs REQUIRED)
 find_package(catkin REQUIRED COMPONENTS
